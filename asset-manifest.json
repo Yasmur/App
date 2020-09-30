@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Yasmur/App.git/static/css/main.bcbfd914.chunk.css",
+    "main.js": "/Yasmur/App.git/static/js/main.42294880.chunk.js",
+    "main.js.map": "/Yasmur/App.git/static/js/main.42294880.chunk.js.map",
+    "runtime-main.js": "/Yasmur/App.git/static/js/runtime-main.8e3130c5.js",
+    "runtime-main.js.map": "/Yasmur/App.git/static/js/runtime-main.8e3130c5.js.map",
+    "static/css/2.13d64717.chunk.css": "/Yasmur/App.git/static/css/2.13d64717.chunk.css",
+    "static/js/2.decdbf2d.chunk.js": "/Yasmur/App.git/static/js/2.decdbf2d.chunk.js",
+    "static/js/2.decdbf2d.chunk.js.map": "/Yasmur/App.git/static/js/2.decdbf2d.chunk.js.map",
+    "index.html": "/Yasmur/App.git/index.html",
+    "precache-manifest.08d8094da07f7bba8ac823c9d7055dd6.js": "/Yasmur/App.git/precache-manifest.08d8094da07f7bba8ac823c9d7055dd6.js",
+    "service-worker.js": "/Yasmur/App.git/service-worker.js",
+    "static/css/2.13d64717.chunk.css.map": "/Yasmur/App.git/static/css/2.13d64717.chunk.css.map",
+    "static/css/main.bcbfd914.chunk.css.map": "/Yasmur/App.git/static/css/main.bcbfd914.chunk.css.map",
+    "static/js/2.decdbf2d.chunk.js.LICENSE.txt": "/Yasmur/App.git/static/js/2.decdbf2d.chunk.js.LICENSE.txt",
+    "static/media/GC 2.svg": "/Yasmur/App.git/static/media/GC 2.0662d9de.svg",
+    "static/media/ITN_mix 1.svg": "/Yasmur/App.git/static/media/ITN_mix 1.2f311a05.svg",
+    "static/media/energetics.jpg": "/Yasmur/App.git/static/media/energetics.43f9dac6.jpg",
+    "static/media/energy.jpg": "/Yasmur/App.git/static/media/energy.fb084e1e.jpg",
+    "static/media/HeroBlock.scss": "/Yasmur/App.git/static/media/hero-bg.b236af76.jpg",
+    "static/media/industry.jpg": "/Yasmur/App.git/static/media/industry.5ec44869.jpg",
+    "static/media/shid_emozhl_logo_white 1.svg": "/Yasmur/App.git/static/media/shid_emozhl_logo_white 1.341a487c.svg",
+    "static/media/sity_planing.jpg": "/Yasmur/App.git/static/media/sity_planing.f8f67844.jpg",
+    "static/media/slide-1.jpg": "/Yasmur/App.git/static/media/slide-1.7e1db0da.jpg",
+    "static/media/slide-2.jpg": "/Yasmur/App.git/static/media/slide-2.12a25e24.jpg",
+    "static/media/slide-3.jpg": "/Yasmur/App.git/static/media/slide-3.638ec227.jpg",
+    "static/media/slide-4.jpg": "/Yasmur/App.git/static/media/slide-4.8a21e8b7.jpg",
+    "static/media/slide-5.jpg": "/Yasmur/App.git/static/media/slide-5.bb9f49bb.jpg",
+    "static/media/transport.jpg": "/Yasmur/App.git/static/media/transport.65643b05.jpg",
+    "static/media/utilisation.jpg": "/Yasmur/App.git/static/media/utilisation.a8b6caee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e3130c5.js",
+    "static/css/2.13d64717.chunk.css",
+    "static/js/2.decdbf2d.chunk.js",
+    "static/css/main.bcbfd914.chunk.css",
+    "static/js/main.42294880.chunk.js"
+  ]
+}
